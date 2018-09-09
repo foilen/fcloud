@@ -1,4 +1,5 @@
 fcloud-docker-apache_php_5
+fcloud-docker-backup-to-google-cloud
 fcloud-docker-bind9
 fcloud-docker-cron
 fcloud-docker-email
