@@ -4,5 +4,6 @@ fcloud-docker-bind9
 fcloud-docker-cron
 fcloud-docker-email
 fcloud-docker-haproxy
+fcloud-docker-java
 fcloud-docker-mariadb
 fcloud-docker-service
