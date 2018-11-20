@@ -7,5 +7,6 @@ fcloud-docker-gitlab
 fcloud-docker-haproxy
 fcloud-docker-java
 fcloud-docker-mariadb
+fcloud-docker-postgresql
 fcloud-docker-service
 fcloud-docker-unms
