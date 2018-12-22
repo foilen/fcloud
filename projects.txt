@@ -10,4 +10,5 @@ fcloud-docker-mariadb
 fcloud-docker-mongodb
 fcloud-docker-postgresql
 fcloud-docker-service
+fcloud-docker-unifi
 fcloud-docker-unms
