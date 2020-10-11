@@ -3,13 +3,14 @@ fcloud-docker-backup-to-google-cloud
 fcloud-docker-backup-to-sftp
 fcloud-docker-bind9
 fcloud-docker-cron
-fcloud-docker-email
 fcloud-docker-gitlab
 fcloud-docker-haproxy
 fcloud-docker-java
 fcloud-docker-mariadb
 fcloud-docker-mongodb
 fcloud-docker-postgresql
+fcloud-docker-python
 fcloud-docker-service
 fcloud-docker-unifi
-fcloud-docker-unms
+fcloud-docker-wekan
+fcloud-prebuilt-haproxy
